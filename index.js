@@ -1,1 +1,1 @@
-console.log("Javascrip")
+console.log("Javascript")
